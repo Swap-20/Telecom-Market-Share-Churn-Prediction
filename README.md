@@ -24,30 +24,51 @@ This project uses machine learning models to analyze customer behavior and predi
 ## 🚀 Key Features
 
 Comprehensive Data Analysis covering multiple regions and years
+
 Feature Engineering focused on temporal, competitive, and geographic dimensions
+
 Multiple ML Models: Baseline Logistic Regression, Random Forest, XGBoost, and Stacked Ensemble
+
 Final Model: XGBoost Classifier
 
 ## ⚙️ Technical Workflow
 
 Data Collection & Preparation
+
 Source: Telecom market data (CSV format)
+
 Cleaning and handling missing values
+
 Feature extraction and scaling
+
 Exploratory Data Analysis (EDA)
+
 Distribution analysis of churn and non-churn customers
+
 Temporal and market share patterns
+
 Correlation and variance checks
+
 Feature Engineering
+
 Derived metrics like market_rank, share_gap_leader, and circle-based averages
+
 Label encoding for categorical variables
+
 Temporal lag and growth rate features
+
 Model Development
+
 Baseline Model: Logistic Regression (Accuracy: 85%, ROC-AUC: 0.61)
+
 Advanced Models:
+
 Random Forest (Accuracy: 92%, ROC-AUC: 0.97)
+
 XGBoost (Accuracy: 95%, ROC-AUC: 0.9847)
+
 Stacked Ensemble (Accuracy: 93%, ROC-AUC: 0.9720)
+
 
 
 ## 📊 Model Performance Summary
@@ -74,6 +95,7 @@ Strategic Planning: Data-driven insights for network investment and customer eng
 ## 🛠️ Technologies Used
 
 Python – pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost
+
 Jupyter Notebook – Development and experimentation
 
 
