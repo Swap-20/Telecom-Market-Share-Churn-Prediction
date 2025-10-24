@@ -1,13 +1,13 @@
-#📘 Telecom Churn Prediction Project
+# 📘 Telecom Churn Prediction Project
 
 
-##🧠 Project Overview
+## 🧠 Project Overview
 
 The Telecom Market Churn Prediction System aims to predict regional subscriber churn trends to help telecom operators proactively manage network investments, optimize marketing spend, and improve customer retention.
 
 This project uses machine learning models to analyze customer behavior and predict churn probabilities at a market level, supporting strategic decision-making and operational actions.
 
-##👥 Team Details
+## 👥 Team Details
 
 | Role                                        | Member          |
 | ------------------------------------------- | --------------- |
